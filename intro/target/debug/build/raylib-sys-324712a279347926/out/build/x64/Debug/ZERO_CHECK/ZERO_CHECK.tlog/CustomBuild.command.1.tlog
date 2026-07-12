@@ -1,0 +1,10 @@
+^C:\USERS\CANCH\ONEDRIVE\ESCRITORIO\NEW FOLDER\GRAFICAS\INTRO\TARGET\DEBUG\BUILD\RAYLIB-SYS-324712A279347926\OUT\BUILD\CMAKEFILES\4C7EF3DB981B730B0308FE734AC4C5B1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/canch/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/raylib-sys-6.0.0/raylib "-BC:/Users/canch/OneDrive/Escritorio/New folder/Graficas/intro/target/debug/build/raylib-sys-324712a279347926/out/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/canch/OneDrive/Escritorio/New folder/Graficas/intro/target/debug/build/raylib-sys-324712a279347926/out/build/raylib.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

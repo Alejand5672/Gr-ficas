@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\CMakeFiles\ee3303d5c9a29caf7cb76c860357a933\RUN_TESTS_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{885153D8-7F3D-3691-9789-030EEF72CBC6}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

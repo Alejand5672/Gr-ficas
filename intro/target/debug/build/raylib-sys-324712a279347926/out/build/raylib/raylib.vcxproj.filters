@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\raylib\src\raudio.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\raylib\src\rcore.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\raylib\src\rmodels.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\raylib\src\rshapes.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\raylib\src\rtext.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\raylib\src\rtextures.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\raylib\src\raylib.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\raylib\src\rcamera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\raylib\src\rlgl.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\raylib\src\raymath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\raylib\src\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\input.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\platform.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\vulkan.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\egl_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\osmesa_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\null_init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\null_monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\null_window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\null_joystick.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_module.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_time.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_thread.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_init.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_joystick.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_monitor.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\win32_window.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+    <Object Include="C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out\build\raylib\external\glfw\src\glfw.dir\$(Configuration)\wgl_context.obj">
+      <Filter>Object Libraries</Filter>
+    </Object>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{9A4E2473-25E6-3A1A-8F8D-73816863B658}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Object Libraries">
+      <UniqueIdentifier>{10703296-EC0F-3FE9-A7D5-BCA1D3146667}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{FA1F705C-32EF-3792-A618-84097217F028}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

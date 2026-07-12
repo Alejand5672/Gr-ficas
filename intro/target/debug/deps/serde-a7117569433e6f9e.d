@@ -1,0 +1,14 @@
+C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\deps\serde-a7117569433e6f9e.d: C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\canch\OneDrive\Escritorio\New\ folder\Graficas\intro\target\debug\build\serde-70920b4019eb970a\out/private.rs
+
+C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\deps\libserde-a7117569433e6f9e.rlib: C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\canch\OneDrive\Escritorio\New\ folder\Graficas\intro\target\debug\build\serde-70920b4019eb970a\out/private.rs
+
+C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\deps\libserde-a7117569433e6f9e.rmeta: C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\canch\OneDrive\Escritorio\New\ folder\Graficas\intro\target\debug\build\serde-70920b4019eb970a\out/private.rs
+
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\canch\OneDrive\Escritorio\New\ folder\Graficas\intro\target\debug\build\serde-70920b4019eb970a\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\canch\\OneDrive\\Escritorio\\New folder\\Graficas\\intro\\target\\debug\\build\\serde-70920b4019eb970a\\out

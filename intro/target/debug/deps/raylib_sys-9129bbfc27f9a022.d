@@ -1,0 +1,14 @@
+C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\deps\raylib_sys-9129bbfc27f9a022.d: C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\lib.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\color.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\glam_conv.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\math.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\matrix_quat_math.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\mint_conv.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\vector_math.rs C:\Users\canch\OneDrive\Escritorio\New\ folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out/bindings.rs
+
+C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\deps\libraylib_sys-9129bbfc27f9a022.rmeta: C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\lib.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\color.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\glam_conv.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\math.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\matrix_quat_math.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\mint_conv.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\vector_math.rs C:\Users\canch\OneDrive\Escritorio\New\ folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out/bindings.rs
+
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\lib.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\color.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\glam_conv.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\math.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\matrix_quat_math.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\mint_conv.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\raylib-sys-6.0.0\src\vector_math.rs:
+C:\Users\canch\OneDrive\Escritorio\New\ folder\Graficas\intro\target\debug\build\raylib-sys-324712a279347926\out/bindings.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\canch\\OneDrive\\Escritorio\\New folder\\Graficas\\intro\\target\\debug\\build\\raylib-sys-324712a279347926\\out

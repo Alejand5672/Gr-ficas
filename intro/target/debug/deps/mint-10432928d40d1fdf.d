@@ -1,0 +1,11 @@
+C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\deps\mint-10432928d40d1fdf.d: C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\lib.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\into_mint.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\matrix.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\rotation.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\vector.rs
+
+C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\deps\libmint-10432928d40d1fdf.rlib: C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\lib.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\into_mint.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\matrix.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\rotation.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\vector.rs
+
+C:\Users\canch\OneDrive\Escritorio\New folder\Graficas\intro\target\debug\deps\libmint-10432928d40d1fdf.rmeta: C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\lib.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\into_mint.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\matrix.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\rotation.rs C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\vector.rs
+
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\lib.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\into_mint.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\matrix.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\rotation.rs:
+C:\Users\canch\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\mint-0.5.9\src\vector.rs:

@@ -1,0 +1,11 @@
+C:/Users/canch/OneDrive/Escritorio/New folder/Graficas/intro/target/debug/build/raylib-sys-43cca37e13b4a1c8/out/lib/raylib.lib
+C:/Users/canch/OneDrive/Escritorio/New folder/Graficas/intro/target/debug/build/raylib-sys-43cca37e13b4a1c8/out/include/raylib.h
+C:/Users/canch/OneDrive/Escritorio/New folder/Graficas/intro/target/debug/build/raylib-sys-43cca37e13b4a1c8/out/include/rcamera.h
+C:/Users/canch/OneDrive/Escritorio/New folder/Graficas/intro/target/debug/build/raylib-sys-43cca37e13b4a1c8/out/include/rlgl.h
+C:/Users/canch/OneDrive/Escritorio/New folder/Graficas/intro/target/debug/build/raylib-sys-43cca37e13b4a1c8/out/include/raymath.h
+C:/Users/canch/OneDrive/Escritorio/New folder/Graficas/intro/target/debug/build/raylib-sys-43cca37e13b4a1c8/out/lib/pkgconfig/raylib.pc
+C:/Users/canch/OneDrive/Escritorio/New folder/Graficas/intro/target/debug/build/raylib-sys-43cca37e13b4a1c8/out/lib/cmake/raylib/raylib-config-version.cmake
+C:/Users/canch/OneDrive/Escritorio/New folder/Graficas/intro/target/debug/build/raylib-sys-43cca37e13b4a1c8/out/lib/cmake/raylib/raylib-config-version.cmake
+C:/Users/canch/OneDrive/Escritorio/New folder/Graficas/intro/target/debug/build/raylib-sys-43cca37e13b4a1c8/out/lib/cmake/raylib/raylib-config.cmake
+C:/Users/canch/OneDrive/Escritorio/New folder/Graficas/intro/target/debug/build/raylib-sys-43cca37e13b4a1c8/out/lib/cmake/raylib/raylib-targets.cmake
+C:/Users/canch/OneDrive/Escritorio/New folder/Graficas/intro/target/debug/build/raylib-sys-43cca37e13b4a1c8/out/lib/cmake/raylib/raylib-targets-debug.cmake
